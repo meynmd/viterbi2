@@ -240,3 +240,12 @@ ModelManifest.xml
 
 # FAKE - F# Make
 .fake/
+/simMDP/simMDP.sln
+/simMDP/simMDP.pyproj
+/simMDP/mdp1.txt
+/simMDP/mdp.txt
+/simMDP/distribution.py
+/simMDP/__pycache__
+/viterbi/__pycache__
+/viterbi/viterbi.pyproj
+/viterbi/viterbi.sln
